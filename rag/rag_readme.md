@@ -7,7 +7,7 @@ This sub directory of the GenAI Repository, is to talk and do all things RAG! Fu
 Please see the below links in reference to the work that I have done to explore how RAG works with LLMs:
 
 ### Naive Rag exercise using OpenAI ChatGPT modelling process 
-please see [openai_rag python file](openai_rag.py) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University. 
+please see [here](OpenAI_RAG) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University. 
 
 ## RAG exercise using open source Local LLMs via Ollama 
 
