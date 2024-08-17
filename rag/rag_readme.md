@@ -6,8 +6,8 @@ This sub directory of the GenAI Repository, is to talk and do all things RAG! Fu
 ## Projects
 Please see the below links in reference to the work that I have done to explore how RAG works with LLMs:
 
-### Simple Rag exercise using OpenAI ChatGPT modelling process 
-please see [openai_rag python file](openai_rag.py) for how i understood a striaghtforward process of implementing rag based on a database created in chroma db of txt file responses from other LLMs about a summary of Wrexham University. 
+### Naive Rag exercise using OpenAI ChatGPT modelling process 
+please see [openai_rag python file](openai_rag.py) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University. 
 
 ## What is RAG? 
 RAG Stands for Retrieval Augmented Generation. Essentially RAG aims to solve potential problems with Large Language Models (LLM's). these problems can be broken down into as follows:
