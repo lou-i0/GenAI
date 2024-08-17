@@ -9,6 +9,8 @@ Please see the below links in reference to the work that I have done to explore 
 ### Naive Rag exercise using OpenAI ChatGPT modelling process 
 please see [openai_rag python file](openai_rag.py) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University. 
 
+## RAG exercise using open source Local LLMs via Ollama 
+
 ## What is RAG? 
 RAG Stands for Retrieval Augmented Generation. Essentially RAG aims to solve potential problems with Large Language Models (LLM's). these problems can be broken down into as follows:
 - Hallucination: The concept where a LLM can provide incorrect or misleading information when responding to a query from a user, even when potentially the response returned could appear a warranted response to the untrained eye. This is particularly problematic when the discussions used against the model relate to medical intervention, investing, academic purposes [1]. 
@@ -46,6 +48,8 @@ In order for RAG to be successful, and in addition to he use of a LLM, a vector 
 ## Glossary 
 - RAG: Retrieval Augmented Generation
 - LLM Large Language Model
+- Naive RAG: That brings in a collection of data, a user asks a query to the LLM with the context of the embeddings from the data collections to provide a more tailored response. 
+- Query Expansion: An Advanced RAG technique that uses the answer from a original query and applies to the vector database, to then produce multiple query results to be processed again via the LLM to provide a more accurate answer. 
 
 
 
