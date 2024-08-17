@@ -10,6 +10,7 @@ Please see the below links in reference to the work that I have done to explore 
 please see [here](OpenAI_RAG) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University. 
 
 ## RAG exercise using open source Local LLMs via Ollama 
+For this exercise, I wanted to see alternative method of using RAG against LLM's. in particular, both to see how PDFs are preprocessing into a vector embedding, as well as the performance of Open sourced LLM's running locally on my machine, and - if possible - to benchmark the performance between them.
 
 ## What is RAG? 
 RAG Stands for Retrieval Augmented Generation. Essentially RAG aims to solve potential problems with Large Language Models (LLM's). these problems can be broken down into as follows:
@@ -43,6 +44,7 @@ In order for RAG to be successful, and in addition to he use of a LLM, a vector 
 ## References 
 [1] (https://cloud.google.com/discover/what-are-ai-hallucinations)
 [2] (https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/)
+[3] (https://user-guidance.analytical-platform.service.justice.gov.uk/tools/visual-studio-code/ollama/#ollama)
 
 
 ## Glossary 
