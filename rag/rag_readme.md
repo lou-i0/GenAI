@@ -33,8 +33,8 @@ Query -> Through and Embedding LLM -> creates embedding for query
 
 Response from LLM is "augmented" from the data i retrieved for the LLM. 
 
-![diagram of rag overview](rag_overview.png)
-![diagram of rag deepdive](rag_deepdive.png)
+![diagram of rag overview](./OpenAI_RAG/rag_overview.png)
+![diagram of rag deepdive](./OpenAI_RAG/rag_deepdive.png)
 
 ### Vector Database
 In order for RAG to be successful, and in addition to he use of a LLM, a vector will need to be setup , to store any documents we use to enrich the model, as well the addition of any documents in the future.
