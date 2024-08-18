@@ -7,10 +7,10 @@ This sub directory of the GenAI Repository, is to talk and do all things RAG! Fu
 Please see the below links in reference to the work that I have done to explore how RAG works with LLMs:
 
 ### Naive Rag exercise using OpenAI ChatGPT modelling process 
-please see [here](OpenAI_RAG) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University.  https://www.youtube.com/watch?v=ea2W8IogX80
+please see [here](https://github.com/lou-i0/GenAI/tree/master/rag/OpenAI_RAG) for how i understood a straightforward process of implementing a naive rag based on a database created in chroma db of text file (.txt) responses from other LLMs about a summary of Wrexham University.  https://www.youtube.com/watch?v=ea2W8IogX80
 
 ## RAG exercise using open source Local LLMs via Ollama 
-For this exercise, I wanted to see alternative method of using RAG against LLM's. in particular, both to see how PDFs are preprocessing into a vector embedding, as well as the performance of Open sourced LLM's running locally on my machine, and - if possible - to benchmark the performance between them. https://www.youtube.com/watch?v=2TJxpyO3ei4 [2][4]. Please see [here](https://github.com/lou-i0/GenAI/tree/master/rag/ollama_RAGG)
+For this exercise, I wanted to see alternative method of using RAG against LLM's. in particular, both to see how PDFs are preprocessing into a vector embedding, as well as the performance of Open sourced LLM's running locally on my machine, and - if possible - to benchmark the performance between them. https://www.youtube.com/watch?v=2TJxpyO3ei4 [2][4]. Please see [here](https://github.com/lou-i0/GenAI/tree/master/rag/ollama_RAG)
 
 ## What is RAG? 
 RAG Stands for Retrieval Augmented Generation. Essentially RAG aims to solve potential problems with Large Language Models (LLM's). these problems can be broken down into as follows:
